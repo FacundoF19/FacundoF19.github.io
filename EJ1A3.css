@@ -1,0 +1,25 @@
+p {
+font-size: 15px;
+text-align: right;
+}
+a:link {
+font-size: 20px;
+color: red;
+text-decoration: none;
+text-align: left;
+}
+a:visited {
+font-size: 20px;
+color: green;
+text-decoration: none;
+}
+a:hover {
+font-size: 20px;
+color: hotpink;
+text-decoration: none;
+}
+a:active {
+font-size: 20px;
+color: blue;
+text-decoration: none;
+}
